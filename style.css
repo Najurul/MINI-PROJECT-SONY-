@@ -166,7 +166,7 @@ header .logo img{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: transparent;
     -webkit-text-stroke: 1px blue;
-    background: url(./public/back.png);
+    background: url(./images/back.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
@@ -511,7 +511,7 @@ header .logo img{
     /* height: 350px; */
 }
 .img1:hover{
-    transform:scale(1.4);
+    transform:scale(1.3);
 }
 .fl{
     position: relative;
